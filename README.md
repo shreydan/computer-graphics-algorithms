@@ -6,3 +6,4 @@ Implemented with `P5.js`, the algorithms will be implemented in `sketch.js`
 
 - **Line Generation**:
   - [Digital Differential Analysis (DDA)](./DDA/)
+  - [Bresenham's](./Bresenhams/)
