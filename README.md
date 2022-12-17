@@ -2,6 +2,8 @@
 
 Implemented with `P5.js`, the algorithms will be available in `sketch.js`
 
+`clone and open index.html for outputs`
+
 ## Algorithms
 
 - **Line Generation**:
